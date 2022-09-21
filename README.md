@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Next js backend project.<br>🌱 I’m currently learning Next js, Nest js.
+🔭 I’m currently working on Nest js backend project.<br>🌱 I’m currently learning  Nest js and Redis.
 
 
 ## 🌐 Socials:
