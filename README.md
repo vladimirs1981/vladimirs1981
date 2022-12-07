@@ -3,9 +3,9 @@
 🔭 Responsible for writing the web services and APIs using Node.js frameworks Express and NestJS <br>
 🔭 Responsible for server-side web application logic <br>
 🔭 Manage the exchange of data between servers and users, develop back-end components, and connect applications with other web services<br>
-🌱 Integrate  data storage solutions –  MySQL, Postgresql, MongoDB<br>
-Throughout the projects I used different tools such as Sequelize, TypeORM and Prisma for database querying, Redis for caching, RabbitMQ as message broker, JWT for authentication. <br>
-🌱 I’m currently learning  Nest js and Redis.
+🔭 Integrate  data storage solutions –  MySQL, Postgresql, MongoDB<br>
+🔭 Throughout the projects I used different tools such as Sequelize, TypeORM and Prisma for database querying, Redis for caching, RabbitMQ as message broker, JWT for authentication. <br>
+
 
 
 ## 🌐 Socials:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vladimir Stojanović) 
